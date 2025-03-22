@@ -29,7 +29,7 @@ const ProjectSection: React.FC = () => {
             description: "An AI-generated website providing encryption and decryption functionalities using CryptoJS for enhanced security.",
             src: "/images/cryptojs.png",
             link: "https://cryptovault-zeta.vercel.app/",
-            github: "#",
+            github: "https://github.com/dhanji4U/cryptojs_enc_dec.git",
         },
     ];
 
